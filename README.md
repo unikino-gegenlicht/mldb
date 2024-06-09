@@ -1,15 +1,18 @@
 <div align="center">
-<h1><img src="branding/full.svg" alt="KoRMa — Kommunales (Film-)Rechte Management"></h1>
-<img alt="Frontend Build Status" src="https://img.shields.io/github/actions/workflow/status/unikino-gegenlicht/rights-management-database/build-fontend.yaml?branch=main&style=for-the-badge&logo=github-actions&logoColor=white&logoSize=auto&label=Frontend%20Build">
-<img alt="Backend Build Status" src="https://img.shields.io/github/actions/workflow/status/unikino-gegenlicht/rights-management-database/build-backend.yaml?branch=main&style=for-the-badge&logo=github-actions&logoColor=white&logoSize=auto&label=Backend%20Build"><br/>
-<img alt="License" src="https://img.shields.io/github/license/unikino-gegenlicht/rights-management-database?style=for-the-badge">
-<img alt="Latest Version" src="https://img.shields.io/github/v/release/unikino-gegenlicht/rights-management-database?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Version">
+<h1><img src="https://raw.githubusercontent.com/unikino-gegenlicht/mldb/main/branding/full.svg" alt="MLDb"></h1>
+<img alt="Frontend Build Status" src="https://img.shields.io/github/actions/workflow/status/unikino-gegenlicht/mldb/build-fontend.yaml?branch=main&style=for-the-badge&logo=github-actions&logoColor=white&logoSize=auto&label=Frontend%20Build">
+<img alt="Backend Build Status" src="https://img.shields.io/github/actions/workflow/status/unikino-gegenlicht/mldb/build-backend.yaml?branch=main&style=for-the-badge&logo=github-actions&logoColor=white&logoSize=auto&label=Backend%20Build"><br/>
+<img alt="License" src="https://img.shields.io/github/license/unikino-gegenlicht/mldb?style=for-the-badge">
+<img alt="Latest Version" src="https://img.shields.io/github/v/release/unikino-gegenlicht/mldb?sort=semver&display_name=tag&style=for-the-badge&label=Latest%20Version">
 </div>
 
-Das kommunale (Film-)Rechte Management ist eine Software, die kommunalen
-Kinos die Suche nach aktuellen Rechteinhabern und Verleihen erleichtern soll.
-Dieses Repository ist in zwei Teile aufgeteilt, einmal ein Frontend und ein
-Backend, welche eng aneinander zusammen entwickelt werden.
-Für weitere Informationen über den jeweiligen Teil, stehen getrennte READMEs
-in den jeweiligen Ordnern zur Verfügung.
+> [!WARNING]
+> Diese Software befindet sich in einem Alpha-Stadium und ist daher nicht
+> als Produktivsystem nutzbar.
 
+Die Movie License Database (MLDb) erlaubt kommunalen Kinos das einfache 
+Auffinden von Lizenzgebenden für Filme die gezeigt werden.
+Hierbei wird ein Community-Ansatz verfolgt, sodass alle am System 
+angeschlossenen kommunalen Kinos die Möglichkeit haben Lizenzinformationen zu
+einem Film hinzuzufügen oder zu verändern, sodass immer ein möglichst aktueller
+Stand der Lizenzinformationen vorhanden ist.

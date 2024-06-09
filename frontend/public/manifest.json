@@ -1,6 +1,6 @@
 {
-    "name": "Kommunales (Film-)Rechte Management",
-    "short_name": "Kommunales (Film-)Rechte Management",
+    "name": "MLDb",
+    "short_name": "MLDb",
     "icons": [
         {
             "src": "/android-chrome-36x36.png",
@@ -48,7 +48,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#2b5797",
-    "background_color": "#2b5797",
+    "theme_color": "#451c56",
+    "background_color": "#451c56",
     "display": "standalone"
 }
