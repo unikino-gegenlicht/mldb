@@ -16,3 +16,15 @@ Hierbei wird ein Community-Ansatz verfolgt, sodass alle am System
 angeschlossenen kommunalen Kinos die Möglichkeit haben Lizenzinformationen zu
 einem Film hinzuzufügen oder zu verändern, sodass immer ein möglichst aktueller
 Stand der Lizenzinformationen vorhanden ist.
+
+
+## Mitwirkende
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END --
